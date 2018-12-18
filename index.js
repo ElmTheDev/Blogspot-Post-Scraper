@@ -7,7 +7,7 @@ const fs = require('fs');
 
 // Main configuration
 
-let targetUrl = "rehmansaad.blogspot.com";
+let targetUrl = "example.blogspot.com";
 let scrapedPosts = [];
 let postsToScrap = 100;
 
